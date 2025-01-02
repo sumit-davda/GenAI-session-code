@@ -1,0 +1,31 @@
+OrderID,Product,Category,Region,Quantity,PricePerUnit,TotalSales,Date
+1,Laptop,Electronics,North America,5,800,4000,10-01-2023
+2,Smartphone,Electronics,Europe,10,500,5000,15-02-2023
+3,T-shirt,Apparel,Asia,20,15,300,20-01-2023
+4,Washing Machine,Home,North America,2,700,1400,05-03-2023
+5,Refrigerator,Home,Europe,1,,1200,25-01-2023
+6,Headphones,Electronics,Asia,15,50,750,20-02-2023
+7,Jeans,Apparel,Europe,12,40,480,01-03-2023
+8,Air Conditioner,Home,North America,3,300,900,10-03-2023
+9,Microwave,Home,Asia,4,120,480,01-04-2023
+10,Blender,Home,Europe,,50,,15-05-2023
+11,Smartwatch,Electronics,Asia,7,200,1400,10-06-2023
+12,Shoes,Apparel,North America,18,60,1080,20-07-2023
+13,Tablet,Electronics,Europe,6,300,1800,15-08-2023
+14,Dress,Apparel,Asia,8,80,640,05-09-2023
+15,Oven,Home,Europe,3,200,600,25-09-2023
+16,Camera,Electronics,North America,2,700,1400,15-10-2023
+17,Washing Machine,Home,Asia,1,700,700,10-11-2023
+18,Hat,Apparel,Europe,25,10,250,25-11-2023
+19,Earphones,Electronics,Asia,30,20,600,05-12-2023
+20,Jacket,Apparel,North America,5,100,500,20-12-2023
+21,Monitor,Electronics,Asia,,150,,15-01-2024
+22,Sofa,Home,Europe,2,500,1000,10-02-2024
+23,Shirt,Apparel,North America,15,25,375,05-03-2024
+24,Lamp,Home,Asia,6,80,480,20-03-2024
+25,Watch,Electronics,Europe,8,400,3200,15-04-2024
+26,Desk,Home,North America,,200,,10-05-2024
+27,Jacket,Apparel,Asia,10,100,1000,01-06-2024
+28,Laptop,Electronics,Europe,4,800,3200,15-06-2024
+29,Shoes,Apparel,North America,9,60,540,10-07-2024
+30,Microwave,Home,Asia,5,,600,25-07-2024
